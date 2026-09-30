@@ -1,7 +1,7 @@
 ## Kelli Albertino 👋
 
 
-- 💬 Desenvolvedora Backend/Observabilidade/Cloud
+- 💬 Engenheira de Software
 - 📫 kellialbertino@gmai.com
 - 😄 Pronouns: ela/dela
 
