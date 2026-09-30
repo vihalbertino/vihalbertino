@@ -1,7 +1,7 @@
 ## Kelli Albertino 👋
 
 
-- 💬 Monitoramento e gestão de Ferramentas
+- 💬 Desenvolvedora Backend/Observabilidade/Cloud
 - 📫 kellialbertino@gmai.com
 - 😄 Pronouns: ela/dela
 
